@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MyContacts</string>
+    <string name="update_contacts">Update contact</string>
+    <string name="add_contacts">Add contact</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="etname">Name</string>
+    <string name="etsurname">Surname</string>
+    <string name="ettelephone_number">Telephone number</string>
+    <string name="ivanov">Ivanov</string>
+    <string name="ivan">Ivan</string>
+    <string name="ivanovich">Ivanovich</string>
+    <string name="_79999999999">+79999999999</string>
 </resources>
